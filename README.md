@@ -1,1 +1,3 @@
 nova-tech-store web project
+
+USING HTML, CSS, JAVASCRIPT, REACT.JS, NODE & EXPRESS.JS, MONGODB
